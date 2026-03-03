@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Décalcomanie",
+  "base_artist": "MAMAMOO",
+  "createdAt": "2026-03-03T07:46:11.419234Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Decalcomanie 2021",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/01_Decalcomanie_2021_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Décalcomanie",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/02_Décalcomanie_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Décalcomanie [데칼코마니]",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/03_Décalcomanie_[데칼코마니]_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Decalcomanie",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/04_Decalcomanie_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Decalcomanie 2021",
+      "artist": "마마무(Mamamoo)",
+      "has_synced": true,
+      "path": "select/05_Decalcomanie_2021_마마무(Mamamoo).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Decalcomanie - Japanese ver.",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/06_Decalcomanie_-_Japanese_ver._MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Decalcomanie -Japanese ver.-",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/07_Decalcomanie_-Japanese_ver.-_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Decalcomanie -Japanese ver.-",
+      "artist": "마마무 (MAMAMOO)",
+      "has_synced": true,
+      "path": "select/08_Decalcomanie_-Japanese_ver.-_마마무_(MAMAMOO).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Decalcomanie 2021",
+      "artist": "마마무 (MAMAMOO)",
+      "has_synced": true,
+      "path": "select/09_Decalcomanie_2021_마마무_(MAMAMOO).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Décalcomanie -Japanese ver.-",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/10_Décalcomanie_-Japanese_ver.-_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Décalcomanie (Mithra's Word)",
+      "artist": "Epik High (에픽하이)",
+      "has_synced": true,
+      "path": "select/11_Décalcomanie_(Mithra's_Word)_Epik_High_(에픽하이).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Decalcomanie (데칼코마니)",
+      "artist": "Mamamoo (마마무)",
+      "has_synced": false,
+      "path": "select/12_Decalcomanie_(데칼코마니)_Mamamoo_(마마무).txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Decalcomanie (feat.JOOHEON of Monsta X)",
+      "artist": "Junggigo",
+      "has_synced": false,
+      "path": "select/13_Decalcomanie_(feat.JOOHEON_of_Monsta_X)_Junggigo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Decalcomanie",
+      "artist": "Hanul Lee",
+      "has_synced": false,
+      "path": "select/14_Decalcomanie_Hanul_Lee.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "데칼코마니 Decalcomanie",
+      "artist": "Bye Bye Badman",
+      "has_synced": false,
+      "path": "select/15_데칼코마니_Decalcomanie_Bye_Bye_Badman.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Decalcomanie (Japanese Version)",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/16_Decalcomanie_(Japanese_Version)_MAMAMOO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Décalcomanie",
+      "artist": "MAMAMOO",
+      "has_synced": true,
+      "path": "select/17_Décalcomanie_MAMAMOO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Décalcomanie",
+      "artist": "MAMAMOO",
+      "has_synced": false,
+      "path": "select/pl_01_Décalcomanie_MAMAMOO.txt"
+    }
+  ]
+}
